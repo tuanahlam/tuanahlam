@@ -1,4 +1,4 @@
-Hello, my name is Alam. I just finished my bachelor's degree. Faculty of Computer Science from Srinakharinwirot University, Thailand
+Hello, my name is Alam. I just finished my bachelor's degree Computer Science from Srinakharinwirot University, Thailand
 Currently looking for a job in data scientist data analysis.
 
 <!---
