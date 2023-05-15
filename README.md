@@ -1,5 +1,5 @@
-Hello, my name is Alam. I just finished my bachelor's degree Computer Science from Srinakharinwirot University, Thailand
-Currently looking for a job in data scientist data analysis.
+Hello, my name is Alam. Bachelor's degree Computer Science from Srinakharinwirot University, Thailand
+Currently looking for a job in Frontend, Software engineer.
 
 <!---
 tuanahlam/tuanahlam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
